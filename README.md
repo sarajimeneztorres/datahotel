@@ -51,20 +51,21 @@ Durante el desarrollo del proyecto se utilizó Docker para facilitar la ejecuci�
 
 ### Dashboard Revenue
 
-![Captura Dashboard Revenue KPI's](https://github.com/sarajimeneztorres/datahotel/blob/main/images/dashboard%20revenue.png)
-![Captura Dashboard Revenue Gráficos](https://github.com/sarajimeneztorres/datahotel/blob/main/images/dashboard%20revenue%202.png)
+![Panel Dashboard Revenue KPI's](https://github.com/sarajimeneztorres/datahotel/blob/main/images/dashboard%20revenue.png)
+![Panel Dashboard Revenue Gráficos](https://github.com/sarajimeneztorres/datahotel/blob/main/images/dashboard%20revenue%202.png)
 
 ### Gestión de Reservas
 
-*(Añadir captura)*
+![Panel Reservas1](https://github.com/sarajimeneztorres/datahotel/blob/main/images/reservas.png)
+![Panel Reservas2](https://github.com/sarajimeneztorres/datahotel/blob/main/images/reservas2.png)
 
 ### Simulador de Tarifas
 
-*(Añadir captura)*
+![Panel Simulador Tarifas](https://github.com/sarajimeneztorres/datahotel/blob/main/images/simulador%20tarifas.png)
 
 ### Estado del Hotel
 
-*(Añadir captura)*
+![Panel Estado Hotel](https://github.com/sarajimeneztorres/datahotel/blob/main/images/estado%20hotel.png)
 
 ## 🎯 Objetivos del proyecto
 
