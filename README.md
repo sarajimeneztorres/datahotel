@@ -1,6 +1,7 @@
 # 🏨 DataHotel
 
 ![Logo DataHotel](https://github.com/sarajimeneztorres/datahotel/blob/main/images/logo.jpg)
+
 Aplicación web de gestión hotelera y análisis de indicadores de Revenue Management desarrollada como Proyecto Final del CFGS Desarrollo de Aplicaciones Multiplataforma (DAM).
 
 ## 📋 Descripción
