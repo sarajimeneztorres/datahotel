@@ -51,7 +51,8 @@ Durante el desarrollo del proyecto se utilizó Docker para facilitar la ejecuci�
 
 ### Dashboard Revenue
 
-*(Añadir captura)*
+![Captura Dashboard Revenue KPI's](https://github.com/sarajimeneztorres/datahotel/blob/main/images/dashboard%20revenue.png)
+![Captura Dashboard Revenue Gráficos](https://github.com/sarajimeneztorres/datahotel/blob/main/images/dashboard%20revenue%202.png)
 
 ### Gestión de Reservas
 
