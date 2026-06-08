@@ -42,6 +42,10 @@ El sistema incorpora un dashboard interactivo que permite visualizar:
 * Pandas
 * Plotly
 * OpenPyXL
+  
+## 🐳 Contenedorización
+
+Durante el desarrollo del proyecto se utilizó Docker para facilitar la ejecución y despliegue de la base de datos MySQL en un entorno aislado y reproducible.
 
 ## 📷 Capturas
 
